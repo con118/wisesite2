@@ -2,8 +2,6 @@
 
 ### This is the my first site with sydney university!
 
-[the best banner in the world](assets/images/images.jpeg)
-
 ## *ACCEPTANCE CRITERIA*
 
 ### *Technical Acceptance Criteria*: 40%
