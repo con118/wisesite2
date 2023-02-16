@@ -24,5 +24,5 @@
 4. Repo contains multiple descriptive commit messages.
 5. Repo contains a quality README file with descriptions, Screenshots, and link to deployed application.
 
-## *URL for The REPO: *
-## *URL for the Gitpages site: *
+## *URL for The REPO: https://github.com/con118/wisesite2
+## *URL for the Gitpages site: https://con118.github.io/wisesite2/
